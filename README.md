@@ -1,3 +1,3 @@
-welcome to mastering git
+Welcome to mastering git
 
-local changes
+Pulling changes
